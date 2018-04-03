@@ -1,3 +1,7 @@
-# -*- coding: utf-8 -*-
-print("I am hungry")
+hungry=input('are you hungry?')
+if hungry=="yes":
+    print('eat samosa')
+else:
+       print('do your work')
+       
 
